@@ -1,0 +1,173 @@
+name: mocki
+port: 3000
+endpoints:
+  - path: /users
+    method: get
+    responses:
+      - statusCode: 200
+        delay: 2500
+        body:
+         - firstName: !Fake firstName
+           lastName: !Fake lastName
+           email: !Fake email
+           created: !Fake pastDate
+         - firstName: !Fake firstName
+           lastName: !Fake lastName
+           email: !Fake email
+           created: !Fake pastDate
+         - firstName: !Fake firstName
+           lastName: !Fake lastName
+           email: !Fake email
+           created: !Fake pastDate
+         - firstName: !Fake firstName
+           lastName: !Fake lastName
+           email: !Fake email
+           created: !Fake pastDate
+         - firstName: !Fake firstName
+           lastName: !Fake lastName
+           email: !Fake email
+           created: !Fake pastDate
+         - firstName: !Fake firstName
+           lastName: !Fake lastName
+           email: !Fake email
+           created: !Fake pastDate
+         - firstName: !Fake firstName
+           lastName: !Fake lastName
+           email: !Fake email
+           created: !Fake pastDate
+         - firstName: !Fake firstName
+           lastName: !Fake lastName
+           email: !Fake email
+           created: !Fake pastDate
+         - firstName: !Fake firstName
+           lastName: !Fake lastName
+           email: !Fake email
+           created: !Fake pastDate
+         - firstName: !Fake firstName
+           lastName: !Fake lastName
+           email: !Fake email
+           created: !Fake pastDate
+         - firstName: !Fake firstName
+           lastName: !Fake lastName
+           email: !Fake email
+           created: !Fake pastDate
+         - firstName: !Fake firstName
+           lastName: !Fake lastName
+           email: !Fake email
+           created: !Fake pastDate
+         - firstName: !Fake firstName
+           lastName: !Fake lastName
+           email: !Fake email
+           created: !Fake pastDate
+         - firstName: !Fake firstName
+           lastName: !Fake lastName
+           email: !Fake email
+           created: !Fake pastDate
+         - firstName: !Fake firstName
+           lastName: !Fake lastName
+           email: !Fake email
+           created: !Fake pastDate
+         - firstName: !Fake firstName
+           lastName: !Fake lastName
+           email: !Fake email
+           created: !Fake pastDate
+         - firstName: !Fake firstName
+           lastName: !Fake lastName
+           email: !Fake email
+           created: !Fake pastDate
+         - firstName: !Fake firstName
+           lastName: !Fake lastName
+           email: !Fake email
+           created: !Fake pastDate
+         - firstName: !Fake firstName
+           lastName: !Fake lastName
+           email: !Fake email
+           created: !Fake pastDate
+         - firstName: !Fake firstName
+           lastName: !Fake lastName
+           email: !Fake email
+           created: !Fake pastDate
+         - firstName: !Fake firstName
+           lastName: !Fake lastName
+           email: !Fake email
+           created: !Fake pastDate
+         - firstName: !Fake firstName
+           lastName: !Fake lastName
+           email: !Fake email
+           created: !Fake pastDate
+         - firstName: !Fake firstName
+           lastName: !Fake lastName
+           email: !Fake email
+           created: !Fake pastDate
+         - firstName: !Fake firstName
+           lastName: !Fake lastName
+           email: !Fake email
+           created: !Fake pastDate
+         - firstName: !Fake firstName
+           lastName: !Fake lastName
+           email: !Fake email
+           created: !Fake pastDate
+         - firstName: !Fake firstName
+           lastName: !Fake lastName
+           email: !Fake email
+           created: !Fake pastDate
+         - firstName: !Fake firstName
+           lastName: !Fake lastName
+           email: !Fake email
+           created: !Fake pastDate
+         - firstName: !Fake firstName
+           lastName: !Fake lastName
+           email: !Fake email
+           created: !Fake pastDate
+         - firstName: !Fake firstName
+           lastName: !Fake lastName
+           email: !Fake email
+           created: !Fake pastDate
+         - firstName: !Fake firstName
+           lastName: !Fake lastName
+           email: !Fake email
+           created: !Fake pastDate
+         - firstName: !Fake firstName
+           lastName: !Fake lastName
+           email: !Fake email
+           created: !Fake pastDate
+         - firstName: !Fake firstName
+           lastName: !Fake lastName
+           email: !Fake email
+           created: !Fake pastDate
+         - firstName: !Fake firstName
+           lastName: !Fake lastName
+           email: !Fake email
+           created: !Fake pastDate
+         - firstName: !Fake firstName
+           lastName: !Fake lastName
+           email: !Fake email
+           created: !Fake pastDate
+         - firstName: !Fake firstName
+           lastName: !Fake lastName
+           email: !Fake email
+           created: !Fake pastDate
+         - firstName: !Fake firstName
+           lastName: !Fake lastName
+           email: !Fake email
+           created: !Fake pastDate
+         - firstName: !Fake firstName
+           lastName: !Fake lastName
+           email: !Fake email
+           created: !Fake pastDate
+         - firstName: !Fake firstName
+           lastName: !Fake lastName
+           email: !Fake email
+           created: !Fake pastDate
+         - firstName: !Fake firstName
+           lastName: !Fake lastName
+           email: !Fake email
+           created: !Fake pastDate
+         - firstName: !Fake firstName
+           lastName: !Fake lastName
+           email: !Fake email
+           created: !Fake pastDate
+         - firstName: !Fake firstName
+           lastName: !Fake lastName
+           email: !Fake email
+           created: !Fake pastDate
